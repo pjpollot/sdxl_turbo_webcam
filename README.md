@@ -1,5 +1,7 @@
 # SDXL Turbo - real time transform
 
+Note: the results are not good.
+
 ```sh
 # install the requirements (python3.12 is recommended)
 pip install -r requirements.txt
