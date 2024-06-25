@@ -8,4 +8,4 @@ pip install -r requirements.txt
 
 # run the gradio app 
 python main.py [--model_path_or_url path] [--canny_controlnet_path_or_url path] [--variant string] [--resolution int] [--port int]
-```# sdxl_turbo_webcam
+```
